@@ -37,6 +37,6 @@ The project uses a flat directory structure for easy navigation and development.
 
 To get a local copy of this project running on your machine, follow these steps:
 
-1. **Clone the repository:**
+1. Clone the repository:**
 ```bash
    git clone [https://github.com/akshat928/PizzaDeliverySystem.git](https://github.com/akshat928/PizzaDeliverySystem.git)
